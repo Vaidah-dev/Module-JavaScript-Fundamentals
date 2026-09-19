@@ -1,2 +1,1 @@
-console.log ( "My favorite food will definitely be anything with pasta, or pretty much anything Italian because it is my favourite cuisine and i hope to visit the country someday.
-I am weird in the sense that i do not have a specific genre of music that i listen to, i love lyrics that move me more than the beat if that makes sense.") ;
+console.log("My favorite food will definitely be anything with pasta, or pretty much anything Italian because it is my favourite cuisine and i hope to visit the country someday.");
